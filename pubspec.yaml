@@ -17,3 +17,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  fonts:
+    - family: SF Compact Display
+      fonts: 
+        - asset: assets/fonts/SF-Compact-Display-Regular.otf
+        # https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Compact/SF-Compact-Display-Regular.otf
