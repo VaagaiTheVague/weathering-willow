@@ -129,7 +129,7 @@ class _HomePageState extends State<HomePage> {
                         Padding(
                           padding: const EdgeInsets.fromLTRB(10, 4, 10, 10),
                           child: SizedBox(
-                              height: 150,
+                              height: 100,
                               child: CarouselView(
                                   itemExtent: 100,
                                   children: List.generate(7, (index) {
